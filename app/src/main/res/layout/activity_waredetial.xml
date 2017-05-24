@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <com.example.myshop.weidget.MyToolBar
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/myToolBar_detail_activity"
+        android:background="?attr/colorPrimary"
+        android:minHeight="50dp"
+        app:isShowEditView="false"
+        app:navigationIcon="@drawable/icon_back_32px"
+        app:title="商品详情"
+        app:rightButton="@color/colorPrimary">
+
+    </com.example.myshop.weidget.MyToolBar>
+
+    <WebView
+        android:id="@+id/webView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+    </WebView>
+</LinearLayout>

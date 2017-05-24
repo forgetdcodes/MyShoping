@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:custome="http://schemas.android.com/apk/res-auto"
+    xmlns:app="http://schemas.android.com/tools"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <android.support.v7.widget.RecyclerView
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:id="@+id/first_recyclerView"
+        android:background="@color/white"
+        >
+
+    </android.support.v7.widget.RecyclerView>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:layout_marginLeft="2dp">
+
+
+        <com.daimajia.slider.library.SliderLayout
+            android:layout_width="match_parent"
+            android:layout_height="180dp"
+            android:id="@+id/sliderLayout"
+            custome:auto_cycle="true"
+            custome:pager_animation="Default"
+            custome:indicator_visibility="visible"
+            custome:pager_animation_span="1100"
+            >
+
+        </com.daimajia.slider.library.SliderLayout>
+
+        <com.cjj.MaterialRefreshLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:id="@+id/refreshLayout"
+            android:layout_marginTop="10dp"
+            app:overlay="false"
+            app:wave_show="false"
+            app:progress_colors="@array/material_colors"
+            app:wave_height_type="higher"
+            app:progress_show_circle_backgroud="false"
+            >
+
+            <android.support.v7.widget.RecyclerView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:id="@+id/right_recyclerView"
+                >
+
+            </android.support.v7.widget.RecyclerView>
+        </com.cjj.MaterialRefreshLayout>
+    </LinearLayout>
+
+</LinearLayout>

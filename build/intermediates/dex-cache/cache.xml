@@ -1,0 +1,473 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\刘博良\.gradle\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="F:\AndroidProject\MyShop\app\build\intermediates\transforms\dex\debug\folders\1000\10\library-2.4.0_bb04641052e17d81d8b4a3ae933c4d832e9ec224\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\AndroidProject\MyShop\app\build\intermediates\exploded-aar\com.cjj.materialrefeshlayout\library\1.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="597d857fe9b090c4582f0855a2c6d6cc45fec544">
+        <dex dex="F:\AndroidProject\MyShop\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.cjj.materialrefeshlayout-library-1.3.0_c7b3dc6d960a5811e40b067c0736ee0c9e7d3461\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\AndroidProject\MyShop\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="F:\AndroidProject\MyShop\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.1.1_4de8b16c8abccd37e9b49add345451230bf97dbc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\AndroidProject\MyShop\app\build\intermediates\exploded-aar\com.facebook.fresco\fbcore\0.12.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="40e5cb8708fc25fe57cb403cc82e9ef98376b648">
+        <dex dex="F:\AndroidProject\MyShop\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.fresco-fbcore-0.12.0_dc38e252d99ab5c38562e28a334b304e0a94c29c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\AndroidProject\MyShop\app\libs\MobCommons-2017.0321.1624.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d49d36ec407502d69c217d81a87283eba9c746b2">
+        <dex dex="F:\AndroidProject\MyShop\app\build\intermediates\transforms\dex\debug\folders\1000\2\MobCommons-2017.0321.1624_4241c4ef552f5ac374efb13e67df381b3b8ab96b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\AndroidProject\MyShop\app\build\intermediates\exploded-aar\MyShop\mylibrary\unspecified\jars\libs\ShareSDK-SinaWeibo-2.8.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="732fb857fb916592da71550c4e24f59d5a1d1c98">
+        <dex dex="F:\AndroidProject\MyShop\app\build\intermediates\transforms\dex\debug\folders\1000\8\ShareSDK-SinaWeibo-2.8.3_b1454d5c790233373a560a600e08b0a4092d8280\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\AndroidProject\MyShop\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a8ae156c2726ac9c56daaf4b49452ec2cdb7bba9">
+        <dex dex="F:\AndroidProject\MyShop\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-25.1.1_b62316593a934e2e349e4d114014e04cc0a89c77\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\AndroidProject\MyShop\app\libs\MobTools-2017.0321.1624.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="242b3a8f9b6b47d2ea8cf932cd978a5b6651d22a">
+        <dex dex="F:\AndroidProject\MyShop\app\build\intermediates\transforms\dex\debug\folders\1000\2\MobTools-2017.0321.1624_aad22834ebd63aacd2fdcd60c9ad01ee7c55e72d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\AndroidProject\MyShop\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cde36806506e5616faa18ec29a613c2febf63ad9">
+        <dex dex="F:\AndroidProject\MyShop\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_efe5656364acb1f8aa449986168f3d5dd951eb69\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\AndroidProject\MyShop\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="F:\AndroidProject\MyShop\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.1.1_da3052492996ccb3edd7c27c8d402b9c9f36710e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\刘博良\.gradle\caches\modules-2\files-2.1\org.greenrobot\eventbus\3.0.0\ddd99896e9569eaababbe81b35d80e1b91c4ad85\eventbus-3.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ddd99896e9569eaababbe81b35d80e1b91c4ad85">
+        <dex dex="F:\AndroidProject\MyShop\app\build\intermediates\transforms\dex\debug\folders\1000\10\eventbus-3.0.0_74dc50bc0e05445b8ca536a0d7275ca40378cd74\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\AndroidProject\MyShop\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="F:\AndroidProject\MyShop\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.1.1_d40b8337366ee81745e4268b645c6a751372a7b7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\AndroidProject\MyShop\app\build\intermediates\exploded-aar\MyShop\mylibrary\unspecified\jars\libs\ShareSDK-Wechat-Favorite-2.8.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7a18c5b88761e601c999455db6d2e7834ffcffa0">
+        <dex dex="F:\AndroidProject\MyShop\app\build\intermediates\transforms\dex\debug\folders\1000\8\ShareSDK-Wechat-Favorite-2.8.3_d54a90d4b39c2e15da6521005827d006515ab460\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\AndroidProject\MyShop\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="F:\AndroidProject\MyShop\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.1.1_bec65aedbee88133c5facd9edcb053821ac5fc5c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\AndroidProject\MyShop\app\build\intermediates\exploded-aar\SMSSDK-2.1.4\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="29de8afd6edd30f246bb7de991037875d0787ec6">
+        <dex dex="F:\AndroidProject\MyShop\app\build\intermediates\transforms\dex\debug\folders\1000\10\intermediates-exploded-aar-SMSSDK-2.1.4_40222c4e308612906a4cf7a10e77dc4ce418ba89\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\刘博良\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.5\686c608d1805b6d4d425ec4459e88164ffc85870\gson-2.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="686c608d1805b6d4d425ec4459e88164ffc85870">
+        <dex dex="F:\AndroidProject\MyShop\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.5_24ac2f8b8f4371b04aeb9a100d5e262c384c2705\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\AndroidProject\MyShop\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="F:\AndroidProject\MyShop\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.1.1_36461efbceae2b31301aafc17f09fcc39d41a38a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\AndroidProject\MyShop\app\build\intermediates\exploded-aar\com.facebook.fresco\drawee\0.12.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1e346707e4770db216049a532ab3eb5e317cf82a">
+        <dex dex="F:\AndroidProject\MyShop\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.fresco-drawee-0.12.0_43860a917942ea46706bd1866072f206e60e6541\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\AndroidProject\MyShop\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a2d217e1195e6fc4b5800417e294208f199f2677">
+        <dex dex="F:\AndroidProject\MyShop\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_e2d41370c3b80d036cc6c0ff0861ee91af2b7b14\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\AndroidProject\MyShop\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="F:\AndroidProject\MyShop\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.1.1_12141b43fd8ee8d583bfebcc6db19c0fb1115cc4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\AndroidProject\MyShop\app\build\intermediates\exploded-aar\MyShop\mylibrary\unspecified\jars\libs\ShareSDK-ShortMessage-2.8.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4cc06c447252e6ccbf99b27bb5bf7a7945e13757">
+        <dex dex="F:\AndroidProject\MyShop\app\build\intermediates\transforms\dex\debug\folders\1000\8\ShareSDK-ShortMessage-2.8.3_43db201186abbe0dce082e2cec2e44c69e29f9a8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\AndroidProject\MyShop\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline-base\0.12.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c9a86e6bc8300fc00c191949ac61a2f7165e35c7">
+        <dex dex="F:\AndroidProject\MyShop\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.fresco-imagepipeline-base-0.12.0_af29566a2deb6742734f992d5bb3ac8b67faa604\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\刘博良\.gradle\caches\modules-2\files-2.1\org.jvnet\animal-sniffer-annotation\1.0\67da8e0d8a8ef79c461a489f9f7bb3e86e23ccae\animal-sniffer-annotation-1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67da8e0d8a8ef79c461a489f9f7bb3e86e23ccae">
+        <dex dex="F:\AndroidProject\MyShop\app\build\intermediates\transforms\dex\debug\folders\1000\10\animal-sniffer-annotation-1.0_3373d240c886d44e857141ee2eaeb20f18ffc8ca\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\AndroidProject\MyShop\app\build\intermediates\exploded-aar\MyShop\mylibrary\unspecified\jars\libs\ShareSDK-QZone-2.8.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7f3f6488c461a236d72b0853eb895247af9f971f">
+        <dex dex="F:\AndroidProject\MyShop\app\build\intermediates\transforms\dex\debug\folders\1000\8\ShareSDK-QZone-2.8.3_cbbb9734555885214ed4f03138492b30bc13a753\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\AndroidProject\MyShop\app\build\intermediates\exploded-aar\de.hdodenhof\circleimageview\2.1.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a2af9c72ccaa4c5c049b500ca6ea664a4ce1f7d4">
+        <dex dex="F:\AndroidProject\MyShop\app\build\intermediates\transforms\dex\debug\folders\1000\10\de.hdodenhof-circleimageview-2.1.0_180671d762bce86fcfa312083c1c576edc39a5fd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\刘博良\.gradle\caches\modules-2\files-2.1\io.github.openfeign\feign-gson\9.4.0\37c076e1e43660c135350117e352f930d3aad95b\feign-gson-9.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="37c076e1e43660c135350117e352f930d3aad95b">
+        <dex dex="F:\AndroidProject\MyShop\app\build\intermediates\transforms\dex\debug\folders\1000\10\feign-gson-9.4.0_e6f7b1615c0846677a930bbe727fcdf3448b995b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\AndroidProject\MyShop\app\build\intermediates\exploded-aar\com.jiechic.library\xUtils\2.6.14\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fe75606aa9485cd20177894c204291a79a0cc7ab">
+        <dex dex="F:\AndroidProject\MyShop\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.jiechic.library-xUtils-2.6.14_ff34576bfbea562a506252390db1b7bdbae6e4b9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\AndroidProject\MyShop\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="F:\AndroidProject\MyShop\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.1.1_6ef14abb4d889d1d828b0df8e52ccc34fa1096f9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\刘博良\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp3\okhttp\3.7.0\6edbebdd8868708db718d15c09c4b28037fd487e\okhttp-3.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6edbebdd8868708db718d15c09c4b28037fd487e">
+        <dex dex="F:\AndroidProject\MyShop\app\build\intermediates\transforms\dex\debug\folders\1000\10\okhttp-3.7.0_0f6054d0294c0670ce200e2b0ab2a0d72f35ac12\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\AndroidProject\MyShop\app\build\intermediates\exploded-aar\MyShop\mylibrary\unspecified\jars\libs\ShareSDK-Core-2.8.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3af540798cba0f2535af122735c82a43d02a4dbe">
+        <dex dex="F:\AndroidProject\MyShop\app\build\intermediates\transforms\dex\debug\folders\1000\8\ShareSDK-Core-2.8.3_f9e7d08aef3ab7aed6549f6c2c9b37477cb0a309\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\AndroidProject\MyShop\app\build\intermediates\exploded-aar\com.android.support\transition\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="15b049fedbd8e3926bf99d9e45dfc9b2a1043bb9">
+        <dex dex="F:\AndroidProject\MyShop\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-transition-25.1.1_e6477a33f947c4b3d10c335ed0599857113d1f7c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\AndroidProject\MyShop\app\build\intermediates\exploded-aar\com.facebook.fresco\fresco\0.12.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a540784239c611ea490593e2053a5e2890675c68">
+        <dex dex="F:\AndroidProject\MyShop\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.fresco-fresco-0.12.0_bb216b0ebfbd750b27ca3015bbbea519cb3e5502\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\AndroidProject\MyShop\app\build\intermediates\exploded-aar\MyShop\mylibrary\unspecified\jars\libs\ShareSDK-Wechat-Moments-2.8.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c0e136dc01ff6eb8079f8e6390a0d50bb8a5cff1">
+        <dex dex="F:\AndroidProject\MyShop\app\build\intermediates\transforms\dex\debug\folders\1000\8\ShareSDK-Wechat-Moments-2.8.3_0ad625cd9d72eab88c8866785309d165de6230a1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\AndroidProject\MyShop\app\build\intermediates\exploded-aar\com.android.support\design\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cd7951e04cfb9a8bf008d544a478d9a8d8192d38">
+        <dex dex="F:\AndroidProject\MyShop\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-25.1.1_86bbe88b225cceb16833e2385ea955ef273af7d4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\AndroidProject\MyShop\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="F:\AndroidProject\MyShop\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.1.1_54717d35d0916a3dfa9e38f0e275ceb4c6cb26be\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.1.1\support-annotations-25.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="F:\AndroidProject\MyShop\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.1.1_532805f8597659794f316d89247d85ea8aceb048\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\刘博良\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="F:\AndroidProject\MyShop\app\build\intermediates\transforms\dex\debug\folders\1000\10\bolts-tasks-1.4.0_87e8db2052451852a39273ffbf4f46a22adbe2e2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\AndroidProject\MyShop\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c9649557905bf7a80fca9e0d54cbcb7662627860">
+        <dex dex="F:\AndroidProject\MyShop\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-25.1.1_6f725e9df035b3f58335e059130a93944de45da3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\刘博良\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.3.2\d6b7f0093cec6c9faf65dbfd6a6a345d0ed25e27\picasso-2.3.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d6b7f0093cec6c9faf65dbfd6a6a345d0ed25e27">
+        <dex dex="F:\AndroidProject\MyShop\app\build\intermediates\transforms\dex\debug\folders\1000\10\picasso-2.3.2_9f4dac965b5d47872936c68d4fe6dcf2153d95f2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\AndroidProject\MyShop\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="F:\AndroidProject\MyShop\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.1.1_76b935c7e4659f56a8c8c251189f7a403f712661\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\刘博良\.gradle\caches\modules-2\files-2.1\io.github.openfeign\feign-core\9.4.0\6d7727ae005e6c56facc5f425d377732a9ba7b16\feign-core-9.4.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6d7727ae005e6c56facc5f425d377732a9ba7b16">
+        <dex dex="F:\AndroidProject\MyShop\app\build\intermediates\transforms\dex\debug\folders\1000\10\feign-core-9.4.0_b5bb720c85fa5dfc7c53d13ab674fbb15ad489a0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\AndroidProject\MyShop\app\build\intermediates\exploded-aar\com.daimajia.slider\library\1.1.5\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="08962e03b6a954c65d4944e092879b7f5ee1208d">
+        <dex dex="F:\AndroidProject\MyShop\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.daimajia.slider-library-1.1.5_b29c59da0c847c120395e8f794d58f5c57890a31\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\AndroidProject\MyShop\app\build\intermediates\exploded-aar\MyShop\mylibrary\unspecified\jars\libs\MobTools-2017.0412.1554.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8cdc21c1d3204abe56d6dca37b0cfecc1e77e454">
+        <dex dex="F:\AndroidProject\MyShop\app\build\intermediates\transforms\dex\debug\folders\1000\8\MobTools-2017.0412.1554_78fc9fedfef0c50a8bb58bdcfa1f5d33cdd7c497\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\AndroidProject\MyShop\app\build\intermediates\exploded-aar\MyShop\mylibrary\unspecified\jars\libs\ShareSDK-Wechat-Core-2.8.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="04eb1fe128294f546968541bb4e551e5d49323cd">
+        <dex dex="F:\AndroidProject\MyShop\app\build\intermediates\transforms\dex\debug\folders\1000\8\ShareSDK-Wechat-Core-2.8.3_d8f0c47db2a85a9907efc437621959d089805402\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\刘博良\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.12.0\3742beff8024d0a0073d284b7c5e4cbf73d99b25\okio-1.12.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3742beff8024d0a0073d284b7c5e4cbf73d99b25">
+        <dex dex="F:\AndroidProject\MyShop\app\build\intermediates\transforms\dex\debug\folders\1000\10\okio-1.12.0_d9e9782927447153fbd7faf05a908ccb86522b3a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\AndroidProject\MyShop\app\build\intermediates\exploded-aar\MyShop\mylibrary\unspecified\jars\libs\MobCommons-2017.0412.1554.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="673f26ccfc1d95183b03754d5125e557a72715c4">
+        <dex dex="F:\AndroidProject\MyShop\app\build\intermediates\transforms\dex\debug\folders\1000\8\MobCommons-2017.0412.1554_ae930bd61d6f2bd8dfd05d8cdb36d8ebdd505268\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\AndroidProject\MyShop\app\build\intermediates\exploded-aar\com.github.d-max\spots-dialog\0.7\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bf94678214d9ab43a8deb5df90d0b3e6d619ff1e">
+        <dex dex="F:\AndroidProject\MyShop\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.github.d-max-spots-dialog-0.7_269ab5559a4dbd19274f58b9d72f0aca7de0a7aa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\AndroidProject\MyShop\app\build\intermediates\exploded-aar\MyShop\mylibrary\unspecified\jars\libs\ShareSDK-QQ-2.8.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a6bc44abf88658e10d01f237698f42c0d6de7242">
+        <dex dex="F:\AndroidProject\MyShop\app\build\intermediates\transforms\dex\debug\folders\1000\8\ShareSDK-QQ-2.8.3_c52c21dd1455f9c7fb13ae617dbf3c8516528b96\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\AndroidProject\MyShop\app\build\intermediates\exploded-aar\com.facebook.fresco\imagepipeline\0.12.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="145da27a459a63ea0c4e318930365cf0a8b8e891">
+        <dex dex="F:\AndroidProject\MyShop\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.facebook.fresco-imagepipeline-0.12.0_92abc7b96cb3e59f4ee96dbe4bd80449356f5d5e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\AndroidProject\MyShop\app\build\intermediates\exploded-aar\MyShop\mylibrary\unspecified\jars\libs\ShareSDK-Douban-2.8.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="92f3e43ede41860e72c6ad5ca3b27166eda07af5">
+        <dex dex="F:\AndroidProject\MyShop\app\build\intermediates\transforms\dex\debug\folders\1000\8\ShareSDK-Douban-2.8.3_662937ac11456fe1fe0df2f7011e59fb2b1ed971\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\AndroidProject\MyShop\app\build\intermediates\exploded-aar\SMSSDKGUI-2.1.4\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0c606d386b68967b1b7172bd82c7e782c6e7a1d9">
+        <dex dex="F:\AndroidProject\MyShop\app\build\intermediates\transforms\dex\debug\folders\1000\10\intermediates-exploded-aar-SMSSDKGUI-2.1.4_6561f8b198c9cc245642be3feb4ca7fe84f012d4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\AndroidProject\MyShop\app\build\intermediates\exploded-aar\MyShop\mylibrary\unspecified\jars\libs\ShareSDK-Wechat-2.8.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4c72b282f1844a7e0c20713a21c43267cbdf39d8">
+        <dex dex="F:\AndroidProject\MyShop\app\build\intermediates\transforms\dex\debug\folders\1000\8\ShareSDK-Wechat-2.8.3_eb18d0a82e013a3842979c3c918659e5f7b37b02\classes.dex" />
+    </item>
+
+</items>

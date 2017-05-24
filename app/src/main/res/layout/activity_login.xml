@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:background="@color/white"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <com.example.myshop.weidget.MyToolBar
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/loginActivity_toolBar"
+        android:background="@color/colorPrimary"
+        app:title="商城登录"
+        app:navigationIcon="@drawable/icon_back_32px"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_marginTop="30dp"
+        android:padding="5dp">
+
+        <com.example.myshop.weidget.ClearEditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/phone_text"
+            android:drawableLeft="@drawable/icon_telphone_32"
+            android:drawablePadding="10dp"
+            android:hint="请输入手机号码"
+            android:inputType="phone"/>
+        <!--<View-->
+            <!--style="@style/line_horizontal"/>-->
+        <com.example.myshop.weidget.ClearEditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/passWord_text"
+            android:drawableLeft="@drawable/icon_lock"
+            android:drawablePadding="10dp"
+            android:hint="请输入登录密码"
+            android:inputType="textPassword"/>
+
+        <!--<View-->
+            <!--style="@style/line_horizontal"/>-->
+    </LinearLayout>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/login_button"
+        android:background="@color/colorPrimary"
+        android:text="登录"
+        android:layout_marginTop="20dp"
+        android:layout_margin="10dp"/>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom"
+        android:padding="5dp"
+        android:orientation="horizontal"
+        android:gravity="center_vertical">
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:id="@+id/register_text"
+            android:text="注册账号"
+            android:textSize="8dp"
+            android:gravity="center"
+            android:textColor="@color/blue"
+            />
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:id="@+id/forget_text"
+            android:text="忘记密码"
+            android:textSize="8dp"
+            android:textColor="@color/blue"
+            android:gravity="center"
+            />
+
+    </LinearLayout>
+
+</LinearLayout>

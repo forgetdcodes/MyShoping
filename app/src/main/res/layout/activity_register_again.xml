@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white">
+
+    <com.example.myshop.weidget.MyToolBar
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/colorPrimary"
+        android:id="@+id/registerAgain_toolBar"
+        app:navigationIcon="@drawable/icon_back_32px"
+        app:title="用户注册（2/2）"
+        app:rightButton="@color/colorPrimary"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/registerAgain_textTip"
+        android:textColor="@color/gray"
+        android:layout_marginTop="20dp"
+        android:padding="@dimen/largePadding"
+        android:textSize="12sp"/>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:padding="@dimen/largePadding"
+        android:orientation="horizontal"
+        android:background="@color/white">
+
+        <com.example.myshop.weidget.ClearEditText
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:id="@+id/registerAgain_editText"
+            android:hint="请输入验证码"
+            android:maxLines="2"
+            android:inputType="number"/>
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/registerAgain_toSendButton"
+            android:layout_marginLeft="5dp"
+            android:enabled="false"
+            android:textColor="@color/white"
+            android:shadowRadius="5"
+            android:background="@color/colorPrimary"
+            android:text="重新获取验证码"/>
+
+    </LinearLayout>
+
+
+</LinearLayout>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    <com.example.myshop.weidget.MyToolBar
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/My_ToolBar"
+        app:isShowEditView="true"
+        android:background="@color/colorPrimary" />
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dip"
+        android:id="@+id/realTabcontent"
+        android:layout_weight="1" />
+
+    <com.example.myshop.weidget.FragmentTabHost
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@android:id/tabhost">
+        <FrameLayout
+            android:layout_width="0dp"
+            android:layout_height="0dp"
+            android:id="@android:id/tabcontent"
+            android:layout_weight="0"/>
+
+    </com.example.myshop.weidget.FragmentTabHost>
+</LinearLayout>
