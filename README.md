@@ -1,7 +1,17 @@
 # MyShoping
-这也算是我第一个在github上的项目吧！下面是我做项目的一些坑和一些知识点（md还不习惯，看来还得好好的熟悉）
+这也算是我第一个在github上的项目吧！
+先上项目的几张图片吧！
+
+![](http://wx2.sinaimg.cn/small/005Pm9FBly1fhexmutdi0j30u01hcn1p.jpg)
+![](http://wx3.sinaimg.cn/small/005Pm9FBly1fhexmrnpsoj30u01hch7m.jpg)
+![](http://wx4.sinaimg.cn/small/005Pm9FBly1fhexmmwa0oj30u01hctqv.jpg)
+![](http://wx4.sinaimg.cn/small/005Pm9FBly1fhexm7e4dbj30u01hcdjs.jpg)
 
 
+
+
+
+下面是我做项目的一些坑和一些知识点（markdown还不习惯，看来还得好好的熟悉）
 
 问题：布局文件  几个fragment同时使用的话，其中一个修改文件里面的内容，不知道其他几个受不书影响？就是xml文件是一个模版还是一个实例？
     答案：经过做的项目证明：它真的是一个模版，和一个类一样，所有的人都可以引用它，然后修改他。
